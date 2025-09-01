@@ -107,8 +107,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/Ouonnki/OuonnkiTV.git
-cd OuonnkiTV
+git clone https://github.com/ax-neal/NealTV.git
+cd NealTV
 
 # 安装依赖
 pnpm install
@@ -314,7 +314,7 @@ VITE_PROXY_URL=https://cors.zme.ink/
 
 ## 🤝 贡献
 
-欢迎通过提交 [Issue](https://github.com/Ouonnki/OuonnkiTV/issues) 或 [Pull Request](https://github.com/Ouonnki/OuonnkiTV/pulls) 贡献代码、文档或想法。
+欢迎通过提交 [Issue](https://github.com/ax-neal/NealTV/issues) 或 [Pull Request](https://github.com/ax-neal/NealTV/pulls) 贡献代码、文档或想法。
 
 建议流程：
 1. Fork 仓库并创建特性分支：`feat/your-feature`
