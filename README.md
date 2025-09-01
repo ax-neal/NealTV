@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://ouonnki.site/upload/logo.svg" alt="OuonnkiTV Logo" width="80"/><br/>
-  OuonnkiTV
+  NealTV
 </h1>
 
 <p align="center">
