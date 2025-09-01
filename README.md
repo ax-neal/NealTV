@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://ouonnki.site/upload/logo.svg" alt="OuonnkiTV Logo" width="80"/><br/>
+  <img src="https://ouonnki.site/upload/logo.svg" alt="NealTV Logo" width="80"/><br/>
   NealTV
 </h1>
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/node-%3E%3D20-brightgreen" alt="Node.js >=20"/>
   <img src="https://img.shields.io/badge/pnpm-%3E%3D9.15.4-blue" alt="pnpm >=9.15.4"/>
   <img src="https://img.shields.io/badge/vite-%5E6.3.5-yellowgreen" alt="Vite"/>
-  <a href="https://github.com/Ouonnki/OuonnkiTV/stargazers"><img src="https://img.shields.io/github/stars/Ouonnki/OuonnkiTV?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ax-neal/NealTV/stargazers"><img src="https://img.shields.io/github/stars/ax-neal/NealTV?style=social" alt="GitHub stars"/></a>
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@
 
 ## 📖 简介
 
-**OuonnkiTV** 是一个由 **React + Vite + TypeScript** 打造的现代化前端应用，用于聚合搜索与播放网络视频资源，支持跨端播放、搜索与观看历史、以及可配置的视频源管理。项目在 LibreSpark/LibreTV 的基础上进行了重构与增强（模块化、状态管理优化、交互体验提升）。
+**NealTV** 是一个由 **React + Vite + TypeScript** 打造的现代化前端应用，用于聚合搜索与播放网络视频资源，支持跨端播放、搜索与观看历史、以及可配置的视频源管理。项目在 LibreSpark/LibreTV 的基础上进行了重构与增强（模块化、状态管理优化、交互体验提升）。
 
 ## ✨ 特性
 
